@@ -1,0 +1,24 @@
+20-07-2022 17:02:08
+Loan Ammount: 2349000
+Percent: 2
+Cout of Year: 23
+Monthly Payment: 120386
+
+20-07-2022 17:02:32
+Loan Ammount: 2300000
+Percent: 2
+Cout of Year: 23
+Monthly Payment: 117875
+
+20-07-2022 17:04:05
+Loan Ammount: 3500000
+Percent: 3
+Cout of Year: 18
+Monthly Payment: 114722
+
+20-07-2022 18:31:57
+Loan Ammount: 3500000
+Percent: 3
+Cout of Year: 18
+Monthly Payment: 114722
+

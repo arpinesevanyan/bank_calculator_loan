@@ -1,0 +1,6 @@
+18-07-2022 18:39:21
+Loan Ammount: 345678
+Percent: 12
+Cout of Year: 12
+Monthly Payment: 2688
+
